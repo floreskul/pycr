@@ -1,1 +1,4 @@
 Simple multi-processed crawler in Python.
+
+Requirements:
+lxml (available in pip)
